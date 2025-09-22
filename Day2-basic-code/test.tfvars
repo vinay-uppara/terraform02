@@ -1,3 +1,3 @@
-ami_id = "ami-05b10e08d247fb927"
+ami_id = "ami-08982f1c5bf93d976"
 type = "t2.micro"
-key = "vin"
+key = "VRS"
